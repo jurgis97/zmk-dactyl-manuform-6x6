@@ -1,6 +1,6 @@
-// wyld_dm_right.overlay
+// dactyl_m6x6_right.overlay
 
-#include "wyld_dm.dtsi"
+#include "dactyl_m6x6.dtsi"
 
 &default_transform {
     col-offset = <6>;

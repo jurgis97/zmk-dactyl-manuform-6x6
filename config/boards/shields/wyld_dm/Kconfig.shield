@@ -1,10 +1,10 @@
-# config SHIELD_WYLD_DM
+# config SHIELD_DACTYL_M6x6
 #     bool
 
-config SHIELD_WYLD_DM_LEFT
-    def_bool $(shields_list_contains,wyld_dm_left)
-#     select SHIELD_WYLD_DM
+config SHIELD_DACTYL_M6x6_LEFT
+    def_bool $(shields_list_contains,dactyl_m6x6_left)
+#     select SHIELD_DACTYL_M6x6
 
-config SHIELD_WYLD_DM_RIGHT
-    def_bool $(shields_list_contains,wyld_dm_right)
-#     select SHIELD_WYLD_DM
+config SHIELD_DACTYL_M6x6_RIGHT
+    def_bool $(shields_list_contains,dactyl_m6x6_right)
+#     select SHIELD_DACTYL_M6x6

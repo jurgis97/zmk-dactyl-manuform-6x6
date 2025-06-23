@@ -1,6 +1,6 @@
 file_format: "1"
-id: wyld_dm
-Name: wyld_dm
+id: dactyl_m6x6
+Name: dactyl_m6x6
 type: shield
 url: https://github.com/bullwinkle3000/zmk-config-xiao/
 requires:
@@ -12,5 +12,5 @@ features:
   - display
   - encoders
 siblings:
-  - wyld_dm_left
-  - wyld_dm_right
+  - dactyl_m6x6_left
+  - dactyl_m6x6_right

@@ -1,6 +1,6 @@
-// wyld_dm_left.overlay
+// dactyl_m6x6_left.overlay
 
-#include "wyld_dm.dtsi"
+#include "dactyl_m6x6.dtsi"
 
 
 &kscan0 {
