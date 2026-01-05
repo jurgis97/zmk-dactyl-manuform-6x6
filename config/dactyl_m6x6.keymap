@@ -49,7 +49,7 @@
             display-name = "RAISE";
             bindings = <
 &trans  &trans    &trans    &trans  &trans     &trans    &trans     &trans     &trans      &trans        &trans           &trans
-&trans  &trans    &trans    &trans  &trans     &trans    &trans     &trans     &trans      &trans        &trans           &kp PRCNT
+&trans  &trans    &trans    &trans  &trans     &trans    &trans     &trans     &trans      &trans        &trans           &trans
 &trans  &trans    &trans    &trans  &trans     &kp LBKT  &kp RBKT   &kp KP_N7  &kp KP_N8   &kp KP_N9     &kp KP_DIVIDE    &trans
 &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp LPAR  &kp RPAR   &kp KP_N4  &kp KP_N5   &kp KP_N6     &kp KP_MULTIPLY  &trans
 &trans  &trans    &trans    &trans  &trans     &trans    &kp KP_N0  &kp KP_N1  &kp KP_N2   &kp KP_N3     &kp KP_MINUS     &kp KP_PLUS
